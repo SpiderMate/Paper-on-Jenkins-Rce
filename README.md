@@ -1,6 +1,6 @@
 # Paper-on-Jenkins-Rce
 
-A detailed paper on Jenkins RCE 2019
+A detailed paper on Jenkins Pre-Auth RCE 2019
 
 ### Contacts
 
